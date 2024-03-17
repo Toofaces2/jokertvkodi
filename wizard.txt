@@ -1,5 +1,5 @@
 name="JokerTV Kodi Edition"
 url="https://archive.org/download/jokertv_edition/JokerTV.zip"
-img="https://github.com/Toofaces2/jokertvkodi/blob/main/icon.png"
+icon="https://github.com/Toofaces2/jokertvkodi/blob/main/icon.png"
 fanart="https://github.com/Toofaces2/jokertvkodi/blob/main/fanart.jpg"
 description="JokerTV aka Toofaces2"
