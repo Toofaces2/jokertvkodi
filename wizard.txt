@@ -1,5 +1,5 @@
 name="JokerTV Kodi Edition"
 url="https://www.dropbox.com/scl/fi/nh7f085awmt8ue64422uu/jokertv.zip?rlkey=e7lpka7b5jzja34dy3lai8aj5&dl=1"
-icon="https://github.com/Toofaces2/jokertvkodi/blob/main/icon.png"
-fanart="https://github.com/Toofaces2/jokertvkodi/blob/main/fanart.jpg"
+img="http://github.com/Toofaces2/jokertvkodi/blob/main/icon.png"
+fanart="http://github.com/Toofaces2/jokertvkodi/blob/main/fanart.jpg"
 description="JokerTV aka Toofaces2"
