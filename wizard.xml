@@ -1,5 +1,34 @@
-name="JokerTV Kodi Edition"
-url="https://www.dropbox.com/scl/fi/nh7f085awmt8ue64422uu/jokertv.zip?rlkey=e7lpka7b5jzja34dy3lai8aj5&dl=1"
-img="http://github.com/Toofaces2/jokertvkodi/blob/main/icon.png"
-fanart="http://github.com/Toofaces2/jokertvkodi/blob/main/fanart.jpg"
-description="JokerTV aka Toofaces2"
+<builds>
+<build>
+<name>JokerTV Kodi Edition</name>
+<version>1.4</version>
+<url>https://www.dropbox.com/scl/fi/nh7f085awmt8ue64422uu/jokertv.zip?rlkey=e7lpka7b5jzja34dy3lai8aj5&dl=1</url>
+<icon>http://github.com/Toofaces2/jokertvkodi/blob/main/icon.png</icon>
+<fanart>http://github.com/Toofaces2/jokertvkodi/blob/main/fanart.jpg</fanart>
+<description>Turkish Power. Multiple skin options. Updated 2/16/24</description>
+</build>
+<build>
+<name>Diggz Xenon FREE</name>
+<version>2.3</version>
+<url>https://archive.org/download/xenon-free-nexus-2.3-216-6pm/Xenon_FREE_Nexus_2.3_216_6pm.zip</url>
+<icon>https://diggz1.me/Images/xenonfree.png</icon>
+<fanart>https://diggz1.me/Images/xenonfree.png</fanart>
+<description>Diggz Xenon FREE. Updated 2/16/24</description>
+</build>
+<build>
+<name>Diggz Xenon BURST FREE **VPN REQUIRED**</name>
+<version>1.1</version>
+<url>https://archive.org/download/xenon-burst-1.1-222-11pm/Xenon_Burst_1.1_222_11pm.zip</url>
+<icon>https://diggz1.me/Images/xenon_burst.png</icon>
+<fanart>https://diggz1.me/Images/xenon_burst.png</fanart>
+<description>Diggz Xenox Burst. VPN reccomended!!Uses Torrents. Only FREE links. No Debrid . Updated 2/22/24</description>
+</build>
+<build>
+<name>Maddux - Kidz -</name>
+<version>1.0</version>
+<url>https://archive.org/download/maddux.-kidz.v-1.0a/Maddux.Kidz.v1.0a.zip</url>
+<icon>https://diggz1.me/Images/Kidz.Small.jpg</icon>
+<fanart>https://diggz1.me/Images/Kidz.jpg</fanart>
+<description>Kidz - Debrid and Free. Updated: 5-Apr-2023</description>
+</build>
+</builds>
