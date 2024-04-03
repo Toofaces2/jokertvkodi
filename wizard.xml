@@ -11,8 +11,8 @@
 <name>Vandetta Kodi Edition</name>
 <version>1.0</version>
 <url>https://archive.org/download/vendetta_build/Vendetta.zip</url>
-<icon>https://github.com/Toofaces2/Vendetta/blob/main/Vandetta_icon.jpg</icon>
-<fanart>https://github.com/Toofaces2/Vendetta/blob/main/Vandetta_background.jpg</fanart>
+<icon>https://github.com/Toofaces2/Vendetta/blob/main/icon.jpg</icon>
+<fanart>https://github.com/Toofaces2/Vendetta/blob/main/fanart.jpg</fanart>
 <description>JokerTV Kodi Installer. Updated 03/04/24</description>
 </build>
  <builds>
