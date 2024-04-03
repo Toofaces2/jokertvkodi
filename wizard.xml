@@ -10,7 +10,7 @@
 	  
 </build>
 
-   </build>
+   <build>
 	<name>Vandetta Kodi Edition</name>
 	<version>1.0</version>
 	<url>https://archive.org/download/vendetta_build/Vendetta.zip</url>
@@ -20,4 +20,4 @@
 	  
   </build>
  
-</builds>
+<builds>
