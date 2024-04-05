@@ -1,6 +1,6 @@
 <builds>  
  <build>
- <name>JokerTV Kodi Edition</name>
+ <name>[COLOR MediumSeaGreen]JokerTV Kodi Edition[COLOR]</name>
  <version>2.1</version>
  <url>https://archive.org/download/jokertv_edition/JokerTV.zip</url>
  <icon>http://github.com/Toofaces2/jokertvkodi/blob/main/icon.png</icon>
@@ -8,7 +8,7 @@
  <description>JokerTV Kodi Installer. Updated 23/03/24</description>
 </build>
  <build>
- <name>Vendetta Kodi Edition</name>
+ <name>[COLOR dodgerblue]Vendetta Kodi Edition[COLOR]</name>
  <version>1.0</version>
  <url>https://archive.org/download/vendetta_build/Vendetta.zip</url>
  <icon>https://github.com/Toofaces2/Vendetta/blob/main/icon.jpg</icon>
