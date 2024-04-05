@@ -1,6 +1,6 @@
 <builds>  
  <build>
- <name>[COLOR mediumseagreen]JokerTV Kodi Edition[COLOR]</name>
+ <name>[COLOR chartreuse]JokerTV Kodi Edition[COLOR]</name>
  <version>2.1</version>
  <url>https://archive.org/download/jokertv_edition/JokerTV.zip</url>
  <icon>http://github.com/Toofaces2/jokertvkodi/blob/main/icon.png</icon>
