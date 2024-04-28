@@ -1,4 +1,4 @@
-29
+30
 |||
 [B]Release[/B]
 
@@ -8,4 +8,6 @@
     -LIVE TV FIXES MOSTLY[/B]
 [B]Vendetta Kodi 1.2 Wizard is available now.[/B]
 
-[B]*****15/04/24*****[/B]
+[B]Medusa kodi 1.2 Wizard is available now.[/B]
+
+[B]*****28/04/24*****[/B]
