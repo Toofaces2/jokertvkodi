@@ -1,14 +1,16 @@
-30
+31
 |||
 [B]Release[/B]
 
-[B]JokerTV Kodi 2.1[/B] 
+[B]JokerTV Kodi 21.1 Omega Fork Version[B] 
 
-[B]JokerTV v2.1 is available now.
+[B]JokerTV v21.1 is available now.
     -LIVE TV FIXES MOSTLY[/B]
 
-[B]Vendetta Kodi 1.2 Wizard is available now.[/B]
+[B]Vendetta Kodi 1.3 Wizard is Update coming Soon.[/B]
 
 [B]Medusa kodi 1.2 Wizard is available now.[/B]
+
+[B] JokerTV Spezial Edition [B] 
 
 [B]*****28/04/24*****[/B]
