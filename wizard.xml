@@ -24,7 +24,7 @@
  <description>JokerTV Kodi Installer. Release date: 28/04/24</description>
 </build>
  <build>
- <name>[COLOR red]Sport Kodi Edition (EN&DE)[COLOR]</name>
+ <name>[COLOR red]Sport Kodi Edition (EN,DE)[COLOR]</name>
  <version>1.0</version>
  <url>https://archive.org/download/Sport_Edition/Sport.zip</url>
  <icon>https://github.com/Toofaces2/Vendetta/blob/main/icon.jpg</icon>
